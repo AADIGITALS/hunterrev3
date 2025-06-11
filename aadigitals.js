@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      // Increment version number
 // @description  Auto-fill, inject date
-// @match        *://egy.almaviva-visa.it/*
+// @match        *://egy.-visa.it/*
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
