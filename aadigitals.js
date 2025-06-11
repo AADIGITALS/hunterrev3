@@ -12,7 +12,7 @@
     'use strict';
 
     // 1. Password lock
-    const PASS = "1234";
+    const PASS = "123";
     if (prompt("Enter password:") !== PASS) {
         alert("Wrong password");
         return;
